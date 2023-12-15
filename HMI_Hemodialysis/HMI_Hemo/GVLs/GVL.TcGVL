@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <GVL Name="GVL" Id="{433861fb-7e18-43dc-9d9e-404d2489a7b8}">
+    <Declaration><![CDATA[{attribute 'qualified_only'}
+VAR_GLOBAL
+	
+	// HMI Variable Global Declaration
+	HMI_Button_Valve				: ARRAY[0..31] OF BOOL;
+	HMI_Display_Int					: ARRAY[0..31] OF INT;
+	HMI_Display_Lamp				: ARRAY[0..31] OF BOOL;
+
+	HMI_Motor_Peristaltik_Input 	: INT;
+	HMI_Motor_Peristaltik_Real		: INT;
+	
+	HMI_Motor_DAC_1_Input			: INT;
+	HMI_Motor_DAC_1_Real			: INT;
+	
+	HMI_Motor_Pump_1_Input			: INT;
+	HMI_Motor_Pump_1_Real			: INT;
+	
+	HMI_Motor_Pump_2_Input			: INT;
+	HMI_Motor_Pump_2_Real			: INT;
+	
+	HMI_Motor_Stepper_Input			: INT;
+	HMI_Motor_Stepper_Real			: INT;
+	HMI_Motor_Stepper_Injec_Stat	: BOOL;
+	HMI_Motor_Stepper_Zero_Pos		: BOOL;
+	
+	HMI_Number_Display				: ARRAY[0..31] OF INT;
+	
+	
+END_VAR]]></Declaration>
+  </GVL>
+</TcPlcObject>

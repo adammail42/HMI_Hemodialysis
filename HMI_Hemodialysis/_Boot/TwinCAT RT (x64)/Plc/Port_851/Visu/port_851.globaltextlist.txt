@@ -1,0 +1,151 @@
+Id;Default
+52; Val 10: %i
+420; Val 11: %i
+658; Val 12: %i
+696; Val 13: %i
+313; Val 14: %i
+1050; Val 15: %i
+862; Val 16: %i
+715; Val 17: %i
+463; Val 18: %i
+761; Val 19: %i
+366; Val 1: %i
+822; Val 20: %i
+648; Val 21: %i
+318; Val 22: %i
+1131; Val 23: %i
+134; Val 24: %i
+689; Val 25: %i
+59; Val 26: %i
+29; Val 27: %i
+476; Val 28: %i
+911; Val 29: %i
+161; Val 2: %i
+193; Val 30: %i
+656; Val 31: %i
+579; Val 32: %i
+849; Val 3: %i
+159; Val 4: %i
+380; Val 5: %i
+207; Val 6: %i
+261; Val 7: %i
+42; Val 8: %i
+58; Val 9: %i
+1018;%i
+1006;Digital Input
+28;dsfads
+608;Injection Status
+112;Input 1
+162;Input 10
+462;Input 11
+577;Input 12
+944;Input 13
+742;Input 14
+680;Input 15
+475;Input 16
+273;Input 17
+127;Input 18
+208;Input 19
+816;Input 2
+306;Input 20
+515;Input 21
+972;Input 22
+70;Input 23
+242;Input 24
+779;Input 25
+714;Input 26
+84;Input 27
+53;Input 28
+228;Input 29
+471;Input 3
+343;Input 30
+745;Input 31
+808;Input 32
+566;Input 4
+775;Input 5
+874;Input 6
+599;Input 7
+359;Input 8
+440;Input 9
+1242;Kecepatan Real
+393;Konfigurasi Input Output
+931;Konfigurasi Motor
+633;Lamp 1
+45;Mesin Hemodialisis
+131;Motor DAC 1
+194;Motor Peristaltik
+744;Motor Pump 1
+1236;Motor Pump 2
+1002;Motor Stepper
+1079;Num Display 1
+311;Num Display 2
+1150;Number Display 1
+1017;Number Display 2
+982;Setpoint Kecepatan
+1174;Tombol Valve
+691;Val 10: %i
+270;Val 11: %i
+100;Val 12: %i
+408;Val 13: %i
+771;Val 14: %i
+692;Val 15: %i
+807;Val 16: %i
+281;Val 17: %i
+948;Val 18: %i
+457;Val 19: %i
+54;Val 1: %i
+426;Val 20: %i
+79;Val 21: %i
+128;Val 22: %i
+929;Val 23: %i
+902;Val 24: %i
+32;Val 25: %i
+238;Val 26: %i
+549;Val 27: %i
+379;Val 28: %i
+418;Val 29: %i
+917;Val 2: %i
+886;Val 30: %i
+629;Val 31: %i
+155;Val 32: %i
+981;Val 3: %i
+877;Val 4: %i
+26;Val 5: %i
+333;Val 6: %i
+612;Val 7: %i
+31;Val 8: %i
+220;Val 9: %i
+55;Valve 1
+964;Valve 10
+3;Valve 11
+265;Valve 12
+952;Valve 13
+357;Valve 14
+65;Valve 15
+664;Valve 16
+121;Valve 17
+578;Valve 18
+589;Valve 19
+391;Valve 2
+2;Valve 20
+954;Valve 21
+107;Valve 22
+174;Valve 23
+934;Valve 24
+67;Valve 25
+734;Valve 26
+354;Valve 27
+968;Valve 28
+879;Valve 29
+502;Valve 3
+137;Valve 30
+340;Valve 31
+348;Valve 32
+733;Valve 4
+467;Valve 5
+227;Valve 6
+22;Valve 7
+977;Valve 8
+737;Valve 9
+1258;Zero Pos Status
+464;Zero Position Status
