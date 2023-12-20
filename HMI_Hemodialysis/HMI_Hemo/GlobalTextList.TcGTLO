@@ -376,6 +376,11 @@
               <l n="LanguageTexts" t="ArrayList" />
             </o>
             <o>
+              <v n="TextID">"1109"</v>
+              <v n="TextDefault">"Motor DAC 2"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
               <v n="TextID">"194"</v>
               <v n="TextDefault">"Motor Peristaltik"</v>
               <l n="LanguageTexts" t="ArrayList" />
@@ -388,6 +393,11 @@
             <o>
               <v n="TextID">"1236"</v>
               <v n="TextDefault">"Motor Pump 2"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"304"</v>
+              <v n="TextDefault">"Motor Pump 3"</v>
               <l n="LanguageTexts" t="ArrayList" />
             </o>
             <o>

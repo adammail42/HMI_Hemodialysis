@@ -15,11 +15,17 @@ VAR_GLOBAL
 	HMI_Motor_DAC_1_Input			: INT;
 	HMI_Motor_DAC_1_Real			: INT;
 	
+	HMI_Motor_DAC_2_Input			: INT;
+	HMI_Motor_DAC_2_Real			: INT;
+	
 	HMI_Motor_Pump_1_Input			: INT;
 	HMI_Motor_Pump_1_Real			: INT;
 	
 	HMI_Motor_Pump_2_Input			: INT;
 	HMI_Motor_Pump_2_Real			: INT;
+	
+	HMI_Motor_Pump_3_Input			: INT;
+	HMI_Motor_Pump_3_Real			: INT;
 	
 	HMI_Motor_Stepper_Input			: INT;
 	HMI_Motor_Stepper_Real			: INT;

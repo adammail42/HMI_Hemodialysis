@@ -73,9 +73,11 @@ Id;Default
 633;Lamp 1
 45;Mesin Hemodialisis
 131;Motor DAC 1
+1109;Motor DAC 2
 194;Motor Peristaltik
 744;Motor Pump 1
 1236;Motor Pump 2
+304;Motor Pump 3
 1002;Motor Stepper
 1079;Num Display 1
 311;Num Display 2
