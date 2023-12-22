@@ -34,6 +34,7 @@ Id;Default
 1018;%i
 1006;Digital Input
 28;dsfads
+1374;H
 608;Injection Status
 112;Input 1
 162;Input 10
@@ -71,6 +72,7 @@ Id;Default
 393;Konfigurasi Input Output
 931;Konfigurasi Motor
 633;Lamp 1
+1561;Maintenance
 45;Mesin Hemodialisis
 131;Motor DAC 1
 1109;Motor DAC 2
@@ -83,8 +85,49 @@ Id;Default
 311;Num Display 2
 1150;Number Display 1
 1017;Number Display 2
+817;P1
+60;P2
+815;P2H
+649;P3
+930;P4
 982;Setpoint Kecepatan
 1174;Tombol Valve
+678;V1
+1333;V10
+617;V11
+1375;V12
+1051;V17
+912;V19
+1674;V21
+618;V24
+542;v27
+4;V27
+846;V28
+922;V29
+1189;V30
+510;V31
+1373;V33
+1492;V34
+1774;V35
+1487;V4
+593;V43
+49;V45
+191;v46
+101;V46
+1268;V55
+1183;V56
+108;V57
+66;V5A
+182;V5a
+1304;V5b
+436;V6a
+1520;V6b
+468;V7a
+1310;V7b
+971;V8a
+759;V8b
+200;V9a
+1329;V9b
 691;Val 10: %i
 270;Val 11: %i
 100;Val 12: %i

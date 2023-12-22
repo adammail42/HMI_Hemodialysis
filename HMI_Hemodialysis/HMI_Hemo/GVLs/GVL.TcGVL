@@ -5,6 +5,7 @@
 VAR_GLOBAL
 	
 	// HMI Variable Global Declaration
+	
 	HMI_Button_Valve				: ARRAY[0..31] OF BOOL;
 	HMI_Display_Int					: ARRAY[0..31] OF INT;
 	HMI_Display_Lamp				: ARRAY[0..31] OF BOOL;
@@ -33,6 +34,50 @@ VAR_GLOBAL
 	HMI_Motor_Stepper_Zero_Pos		: BOOL;
 	
 	HMI_Number_Display				: ARRAY[0..31] OF INT;
+	
+	//HMI Variable for Maintenance
+	
+	HMI_Maintenance_H				: BOOL;	
+	HMI_Maintenance_P1				: BOOL;	
+	HMI_Maintenance_P2				: BOOL;	
+	HMI_Maintenance_P3				: BOOL;	
+	HMI_Maintenance_P4				: BOOL;	
+	
+	HMI_Maintenance_V1				: BOOL;	
+	HMI_Maintenance_V4				: BOOL;	
+	HMI_Maintenance_V5A				: BOOL;	
+	HMI_Maintenance_V5B				: BOOL;	
+	HMI_Maintenance_V6A				: BOOL;	
+	HMI_Maintenance_V6B				: BOOL;	
+	HMI_Maintenance_V7A				: BOOL;	
+	HMI_Maintenance_V7B				: BOOL;	
+	HMI_Maintenance_V8A				: BOOL;	
+	HMI_Maintenance_V8B				: BOOL;	
+	HMI_Maintenance_V9A				: BOOL;	
+	HMI_Maintenance_V9B				: BOOL;
+
+	HMI_Maintenance_V10				: BOOL; 
+	HMI_Maintenance_V11				: BOOL;
+	HMI_Maintenance_V12				: BOOL;
+	HMI_Maintenance_V17				: BOOL;
+	HMI_Maintenance_V19				: BOOL;
+	HMI_Maintenance_V21				: BOOL;
+	HMI_Maintenance_V24				: BOOL;
+	HMI_Maintenance_V27				: BOOL;
+	HMI_Maintenance_V28				: BOOL;
+	HMI_Maintenance_V29				: BOOL;
+	HMI_Maintenance_V30				: BOOL;
+	HMI_Maintenance_V31				: BOOL;
+	
+	HMI_Maintenance_V33				: BOOL;	
+	HMI_Maintenance_V34				: BOOL;
+	HMI_Maintenance_V35				: BOOL;
+	HMI_Maintenance_V43				: BOOL;
+	HMI_Maintenance_V45				: BOOL;
+	HMI_Maintenance_V46				: BOOL;
+	HMI_Maintenance_V55				: BOOL;
+	HMI_Maintenance_V56				: BOOL;
+	HMI_Maintenance_V57				: BOOL;
 	
 	
 END_VAR]]></Declaration>
