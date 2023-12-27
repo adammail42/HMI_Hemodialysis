@@ -13,7 +13,7 @@
 		</System>
 		<Plc>
 			<Project GUID="{4309F436-6F2E-4D64-9276-276878FD6577}" Name="HMI_Hemo" PrjFilePath="HMI_Hemo\HMI_Hemo.plcproj" TmcFilePath="HMI_Hemo\HMI_Hemo.tmc" ReloadTmc="true" AmsPort="851" FileArchiveSettings="#x000e" SymbolicMapping="true">
-				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="HMI_Hemo\HMI_Hemo.tmc" TmcHash="{76B8854F-7924-082F-A43B-21B957E4D3EF}">
+				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="HMI_Hemo\HMI_Hemo.tmc" TmcHash="{9C3E6B6B-329F-D1C7-11F6-94F84932C08B}">
 					<Name>HMI_Hemo Instance</Name>
 					<CLSID ClassFactory="TcPlc30">{08500001-0000-0000-F000-000000000064}</CLSID>
 					<Contexts>

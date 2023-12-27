@@ -297,7 +297,7 @@
                   <a cet="FrameSelectionChangeInputAction">
                     <o>
                       <o n="Selection" t="SelectedFrameInfo">
-                        <v n="SelectedFrame">{d3c9746d-fcf6-4664-b34c-4dae5f56aa4a}</v>
+                        <v n="SelectedFrame">{429c0b64-bdc9-449d-b1bd-91a074b8e2d9}</v>
                         <v n="Selection">0</v>
                       </o>
                       <o n="GlobSel" t="GlobalFrameSelection">
@@ -479,7 +479,7 @@
                   <a cet="FrameSelectionChangeInputAction">
                     <o>
                       <o n="Selection" t="SelectedFrameInfo">
-                        <v n="SelectedFrame">{d3c9746d-fcf6-4664-b34c-4dae5f56aa4a}</v>
+                        <v n="SelectedFrame">{429c0b64-bdc9-449d-b1bd-91a074b8e2d9}</v>
                         <v n="Selection">1</v>
                       </o>
                       <o n="GlobSel" t="GlobalFrameSelection">
@@ -661,7 +661,7 @@
                   <a cet="FrameSelectionChangeInputAction">
                     <o>
                       <o n="Selection" t="SelectedFrameInfo">
-                        <v n="SelectedFrame">{d3c9746d-fcf6-4664-b34c-4dae5f56aa4a}</v>
+                        <v n="SelectedFrame">{429c0b64-bdc9-449d-b1bd-91a074b8e2d9}</v>
                         <v n="Selection">2</v>
                       </o>
                       <o n="GlobSel" t="GlobalFrameSelection">
@@ -1075,11 +1075,11 @@
                     </o>
                     <o>
                       <v n="Id">550940142L</v>
-                      <v n="Value">75</v>
+                      <v n="Value">107</v>
                     </o>
                     <o>
                       <v n="Id">1473355128L</v>
-                      <v n="Value">141</v>
+                      <v n="Value">122</v>
                     </o>
                     <o>
                       <v n="Id">493260384L</v>
@@ -1201,7 +1201,7 @@
                 <v n="VisualElementName">"Frame"</v>
                 <v n="VisualElementTypeName">"VisuFbFrame"</v>
                 <v n="VisualElementIsRectangle">true</v>
-                <v n="VisualElementIdentifier">"GenElemInst_22"</v>
+                <v n="VisualElementIdentifier">"GenElemInst_23"</v>
                 <n n="VisualElementOfflinePaintCommands" />
                 <o n="VisualElementFrameInformation" t="VisualFrameInfo">
                   <l n="ContainedGuids" t="ArrayList" />
@@ -1213,11 +1213,11 @@
                   </a>
                 </o>
                 <d n="VisualElementInputActions" t="Hashtable" />
-                <v n="VisualElementIdentification">{d3c9746d-fcf6-4664-b34c-4dae5f56aa4a}</v>
+                <v n="VisualElementIdentification">{429c0b64-bdc9-449d-b1bd-91a074b8e2d9}</v>
                 <v n="VisualElementOwningObjectGuid">{b3c179e4-dc64-4530-861f-8b1a0e139a76}</v>
                 <a n="LMGuids" et="Guid" />
                 <d n="SubElements" t="Hashtable" />
-                <v n="VisualElementId">15</v>
+                <v n="VisualElementId">16</v>
                 <l n="UserManagementAccessRights" t="ArrayList" />
               </o>
             </l>
@@ -1369,7 +1369,7 @@
             </o>
             <v n="DialogDut">{bbb34b5d-a0f3-4237-a366-7437ad83a3c7}</v>
           </o>
-          <v n="LastUsedIdForIdentifier">22</v>
+          <v n="LastUsedIdForIdentifier">23</v>
           <o n="TextDocument" t="TextDocument">
             <a n="TextLines" cet="TextLine">
               <o>

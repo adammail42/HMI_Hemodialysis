@@ -72,6 +72,7 @@ Id;Default
 393;Konfigurasi Input Output
 931;Konfigurasi Motor
 633;Lamp 1
+1869;Maintanance
 1561;Maintenance
 45;Mesin Hemodialisis
 131;Motor DAC 1
