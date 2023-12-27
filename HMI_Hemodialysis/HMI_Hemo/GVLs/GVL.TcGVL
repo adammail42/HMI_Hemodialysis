@@ -80,6 +80,7 @@ VAR_GLOBAL
 	HMI_Maintenance_V57				: BOOL;
 	
 	
+	
 END_VAR]]></Declaration>
   </GVL>
 </TcPlcObject>
