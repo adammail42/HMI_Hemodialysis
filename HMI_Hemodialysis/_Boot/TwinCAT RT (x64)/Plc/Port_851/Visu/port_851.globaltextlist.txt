@@ -32,7 +32,12 @@ Id;Default
 42; Val 8: %i
 58; Val 9: %i
 1018;%i
+1046;%s
+1856;Diagram
+61;DIALYS
+1024;Dialys Mode
 1006;Digital Input
+1260;Display Variable
 28;dsfads
 1374;H
 608;Injection Status
@@ -68,13 +73,17 @@ Id;Default
 599;Input 7
 359;Input 8
 440;Input 9
+1650;Input Output
+543;Input Variable
 1242;Kecepatan Real
 393;Konfigurasi Input Output
 931;Konfigurasi Motor
 633;Lamp 1
 1869;Maintanance
 1561;Maintenance
+544;MAINTENANCE
 45;Mesin Hemodialisis
+56;Motor
 131;Motor DAC 1
 1109;Motor DAC 2
 194;Motor Peristaltik
@@ -86,11 +95,19 @@ Id;Default
 311;Num Display 2
 1150;Number Display 1
 1017;Number Display 2
+1036;off
+1043;OFF
+1929;ON/OFF
 817;P1
 60;P2
 815;P2H
 649;P3
 930;P4
+1144;PREP
+367;Prep Mode
+1822;Preparation
+1625;RINSE
+1635;Rinse Mode
 982;Setpoint Kecepatan
 1174;Tombol Valve
 678;V1
@@ -193,5 +210,6 @@ Id;Default
 22;Valve 7
 977;Valve 8
 737;Valve 9
+465;Variable Input Output
 1258;Zero Pos Status
 464;Zero Position Status

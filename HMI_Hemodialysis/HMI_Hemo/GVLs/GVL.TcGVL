@@ -4,6 +4,39 @@
     <Declaration><![CDATA[{attribute 'qualified_only'}
 VAR_GLOBAL
 	
+	// HMI State ON/OFF
+	HMI_State_ON_OFF				: BOOL;
+	
+	// HMI Variable Global Heading
+	HMI_Heading						: ARRAY[0..2] OF INT;
+	
+	// HMI Variable Prep
+	HMI_Prep_Name_Display			: ARRAY[0..7] OF STRING;
+	HMI_Prep_Name_Input				: ARRAY[0..3] OF STRING;
+	HMI_Prep_Name_IO				: ARRAY[0..3] OF STRING;
+	
+	HMI_Prep_Display_Var			: ARRAY[0..7] OF INT;
+	HMI_Prep_Input_Var				: ARRAY[0..3] OF INT;
+	HMI_Prep_IO_Var					: ARRAY[0..3] OF BOOL;
+	
+	// HMI Variable Rinse
+	HMI_Rinse_Name_Display			: ARRAY[0..7] OF STRING;
+	HMI_Rinse_Name_Input				: ARRAY[0..3] OF STRING;
+	HMI_Rinse_Name_IO				: ARRAY[0..3] OF STRING;
+	
+	HMI_Rinse_Display_Var			: ARRAY[0..7] OF INT;
+	HMI_Rinse_Input_Var				: ARRAY[0..3] OF INT;
+	HMI_Rinse_IO_Var				: ARRAY[0..3] OF BOOL;
+	
+	// HMI Variable Dialys
+	HMI_Dialys_Name_Display			: ARRAY[0..7] OF STRING;
+	HMI_Dialys_Name_Input			: ARRAY[0..3] OF STRING;
+	HMI_Dialys_Name_IO				: ARRAY[0..3] OF STRING;
+	
+	HMI_Dialys_Display_Var			: ARRAY[0..7] OF INT;
+	HMI_Dialys_Input_Var			: ARRAY[0..3] OF INT;
+	HMI_Dialys_IO_Var				: ARRAY[0..3] OF BOOL;
+	
 	// HMI Variable Global Declaration
 	
 	HMI_Button_Valve				: ARRAY[0..31] OF BOOL;

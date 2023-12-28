@@ -1,13 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TcPlcObject Version="1.1.0.1">
-  <POU Name="MAIN" Id="{3aac644e-6292-47e0-b79d-c2fce7bfcc53}">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <POU Name="MAIN" Id="{3aac644e-6292-47e0-b79d-c2fce7bfcc53}" SpecialFunc="None">
     <Declaration><![CDATA[PROGRAM MAIN
-VAR
+VAR	
+
 END_VAR
-]]>
-    </Declaration>
+]]></Declaration>
     <Implementation>
-      <ST><![CDATA[]]></ST>
+      <ST><![CDATA[// GVL Variable For Prep
+GVL.HMI_Prep_Name_Display[0] := 'Test';
+GVL.HMI_Prep_Name_Display[1] := 'Test';
+GVL.HMI_Prep_Name_Display[2] := 'Test';
+GVL.HMI_Prep_Name_Display[3] := 'Test';
+GVL.HMI_Prep_Name_Display[4] := 'Test';
+GVL.HMI_Prep_Name_Display[5] := 'Test';
+GVL.HMI_Prep_Name_Display[6] := 'Test';
+GVL.HMI_Prep_Name_Display[7] := 'Test';
+
+GVL.HMI_Prep_Name_Input[0] := 'Test';
+GVL.HMI_Prep_Name_Input[1] := 'Test';
+GVL.HMI_Prep_Name_Input[2] := 'Test';
+GVL.HMI_Prep_Name_Input[3] := 'Test';
+
+GVL.HMI_Prep_Name_IO[0] := 'Test';
+GVL.HMI_Prep_Name_IO[1] := 'Test';
+GVL.HMI_Prep_Name_IO[2] := 'Test';
+GVL.HMI_Prep_Name_IO[3] := 'Test';]]></ST>
     </Implementation>
+    <LineIds Name="MAIN">
+      <LineId Id="10" Count="0" />
+      <LineId Id="7" Count="0" />
+      <LineId Id="12" Count="6" />
+      <LineId Id="20" Count="0" />
+      <LineId Id="19" Count="0" />
+      <LineId Id="21" Count="2" />
+      <LineId Id="30" Count="0" />
+      <LineId Id="24" Count="0" />
+      <LineId Id="31" Count="0" />
+      <LineId Id="33" Count="1" />
+    </LineIds>
   </POU>
 </TcPlcObject>

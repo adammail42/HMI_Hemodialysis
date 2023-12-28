@@ -171,8 +171,33 @@
               <l n="LanguageTexts" t="ArrayList" />
             </o>
             <o>
+              <v n="TextID">"1046"</v>
+              <v n="TextDefault">"%s"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"1856"</v>
+              <v n="TextDefault">"Diagram"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"61"</v>
+              <v n="TextDefault">"DIALYS"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"1024"</v>
+              <v n="TextDefault">"Dialys Mode"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
               <v n="TextID">"1006"</v>
               <v n="TextDefault">"Digital Input"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"1260"</v>
+              <v n="TextDefault">"Display Variable"</v>
               <l n="LanguageTexts" t="ArrayList" />
             </o>
             <o>
@@ -351,6 +376,16 @@
               <l n="LanguageTexts" t="ArrayList" />
             </o>
             <o>
+              <v n="TextID">"1650"</v>
+              <v n="TextDefault">"Input Output"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"543"</v>
+              <v n="TextDefault">"Input Variable"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
               <v n="TextID">"1242"</v>
               <v n="TextDefault">"Kecepatan Real"</v>
               <l n="LanguageTexts" t="ArrayList" />
@@ -381,8 +416,18 @@
               <l n="LanguageTexts" t="ArrayList" />
             </o>
             <o>
+              <v n="TextID">"544"</v>
+              <v n="TextDefault">"MAINTENANCE"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
               <v n="TextID">"45"</v>
               <v n="TextDefault">"Mesin Hemodialisis"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"56"</v>
+              <v n="TextDefault">"Motor"</v>
               <l n="LanguageTexts" t="ArrayList" />
             </o>
             <o>
@@ -441,6 +486,21 @@
               <l n="LanguageTexts" t="ArrayList" />
             </o>
             <o>
+              <v n="TextID">"1036"</v>
+              <v n="TextDefault">"off"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"1043"</v>
+              <v n="TextDefault">"OFF"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"1929"</v>
+              <v n="TextDefault">"ON/OFF"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
               <v n="TextID">"817"</v>
               <v n="TextDefault">"P1"</v>
               <l n="LanguageTexts" t="ArrayList" />
@@ -463,6 +523,31 @@
             <o>
               <v n="TextID">"930"</v>
               <v n="TextDefault">"P4"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"1144"</v>
+              <v n="TextDefault">"PREP"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"367"</v>
+              <v n="TextDefault">"Prep Mode"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"1822"</v>
+              <v n="TextDefault">"Preparation"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"1625"</v>
+              <v n="TextDefault">"RINSE"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"1635"</v>
+              <v n="TextDefault">"Rinse Mode"</v>
               <l n="LanguageTexts" t="ArrayList" />
             </o>
             <o>
@@ -973,6 +1058,11 @@
             <o>
               <v n="TextID">"737"</v>
               <v n="TextDefault">"Valve 9"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"465"</v>
+              <v n="TextDefault">"Variable Input Output"</v>
               <l n="LanguageTexts" t="ArrayList" />
             </o>
             <o>
