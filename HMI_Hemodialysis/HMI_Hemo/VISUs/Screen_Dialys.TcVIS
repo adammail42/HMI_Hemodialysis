@@ -3471,7 +3471,7 @@
                 <v n="VisualElementIdentifier">"GenElemInst_96"</v>
                 <n n="VisualElementOfflinePaintCommands" />
                 <n n="VisualElementFrameInformation" />
-                <d n="VisualElementInputActions" t="Hashtable" ckt="String" cvt="IInputAction[]">
+                <d n="VisualElementInputActions" t="Hashtable" ckt="String" cvt="InputBoxInputAction[]">
                   <v>OnMouseClick</v>
                   <a cet="InputBoxInputAction">
                     <o>
@@ -3822,7 +3822,7 @@
                 <v n="VisualElementIdentifier">"GenElemInst_100"</v>
                 <n n="VisualElementOfflinePaintCommands" />
                 <n n="VisualElementFrameInformation" />
-                <d n="VisualElementInputActions" t="Hashtable" ckt="String" cvt="IInputAction[]">
+                <d n="VisualElementInputActions" t="Hashtable" ckt="String" cvt="InputBoxInputAction[]">
                   <v>OnMouseClick</v>
                   <a cet="InputBoxInputAction">
                     <o>
@@ -4173,7 +4173,7 @@
                 <v n="VisualElementIdentifier">"GenElemInst_104"</v>
                 <n n="VisualElementOfflinePaintCommands" />
                 <n n="VisualElementFrameInformation" />
-                <d n="VisualElementInputActions" t="Hashtable" ckt="String" cvt="IInputAction[]">
+                <d n="VisualElementInputActions" t="Hashtable" ckt="String" cvt="InputBoxInputAction[]">
                   <v>OnMouseClick</v>
                   <a cet="InputBoxInputAction">
                     <o>
@@ -4524,7 +4524,7 @@
                 <v n="VisualElementIdentifier">"GenElemInst_108"</v>
                 <n n="VisualElementOfflinePaintCommands" />
                 <n n="VisualElementFrameInformation" />
-                <d n="VisualElementInputActions" t="Hashtable" ckt="String" cvt="IInputAction[]">
+                <d n="VisualElementInputActions" t="Hashtable" ckt="String" cvt="InputBoxInputAction[]">
                   <v>OnMouseClick</v>
                   <a cet="InputBoxInputAction">
                     <o>
@@ -5718,14 +5718,6 @@
                 <o n="VisualElemMemberList" t="VisualElemMemberList">
                   <l n="VisualElemMemberList" t="VisualElemMemberCollection" cet="VisualElemMember">
                     <o>
-                      <v n="Id">1931512087L</v>
-                      <v n="Value">"TOGGLE"</v>
-                    </o>
-                    <o>
-                      <v n="Id">300685745L</v>
-                      <v n="Value">false</v>
-                    </o>
-                    <o>
                       <v n="Id">2812299069L</v>
                       <v n="Value">4294967295U</v>
                     </o>
@@ -5755,7 +5747,7 @@
                     </o>
                     <o>
                       <v n="Id">4062784938L</v>
-                      <v n="Value">"Element-Switch-PushSwitchLed-Gray"</v>
+                      <v n="Value">"Element-Lamp-Lamp1-Yellow"</v>
                     </o>
                     <o>
                       <v n="Id">493260384L</v>
@@ -5799,18 +5791,18 @@
                     </o>
                   </l>
                 </o>
-                <v n="VisualElementName">"PushSwitchLed"</v>
-                <v n="VisualElementTypeName">"VisuFbElemPushSwitchLed"</v>
+                <v n="VisualElementName">"Lamp1"</v>
+                <v n="VisualElementTypeName">"VisuFbElemLamp"</v>
                 <v n="VisualElementIsRectangle">true</v>
-                <v n="VisualElementIdentifier">"GenElemInst_136"</v>
+                <v n="VisualElementIdentifier">"GenElemInst_143"</v>
                 <n n="VisualElementOfflinePaintCommands" />
                 <n n="VisualElementFrameInformation" />
                 <d n="VisualElementInputActions" t="Hashtable" />
-                <v n="VisualElementIdentification">{e6ba2d9f-598a-4b9a-b49f-f2ec649994b2}</v>
+                <v n="VisualElementIdentification">{f30e5afe-13b5-4117-84f4-9a0d133a6835}</v>
                 <v n="VisualElementOwningObjectGuid">{678793d2-a7f8-4441-99aa-b428acc9480e}</v>
                 <a n="LMGuids" et="Guid" />
                 <d n="SubElements" t="Hashtable" />
-                <v n="VisualElementId">136</v>
+                <v n="VisualElementId">0</v>
                 <l n="UserManagementAccessRights" t="ArrayList" />
               </o>
               <o>
@@ -5819,14 +5811,6 @@
                 <n n="VisualElementDescription" />
                 <o n="VisualElemMemberList" t="VisualElemMemberList">
                   <l n="VisualElemMemberList" t="VisualElemMemberCollection" cet="VisualElemMember">
-                    <o>
-                      <v n="Id">1931512087L</v>
-                      <v n="Value">"TOGGLE"</v>
-                    </o>
-                    <o>
-                      <v n="Id">300685745L</v>
-                      <v n="Value">false</v>
-                    </o>
                     <o>
                       <v n="Id">2812299069L</v>
                       <v n="Value">4294967295U</v>
@@ -5857,7 +5841,7 @@
                     </o>
                     <o>
                       <v n="Id">4062784938L</v>
-                      <v n="Value">"Element-Switch-PushSwitchLed-Gray"</v>
+                      <v n="Value">"Element-Lamp-Lamp1-Yellow"</v>
                     </o>
                     <o>
                       <v n="Id">493260384L</v>
@@ -5901,18 +5885,18 @@
                     </o>
                   </l>
                 </o>
-                <v n="VisualElementName">"PushSwitchLed"</v>
-                <v n="VisualElementTypeName">"VisuFbElemPushSwitchLed"</v>
+                <v n="VisualElementName">"Lamp1"</v>
+                <v n="VisualElementTypeName">"VisuFbElemLamp"</v>
                 <v n="VisualElementIsRectangle">true</v>
-                <v n="VisualElementIdentifier">"GenElemInst_138"</v>
+                <v n="VisualElementIdentifier">"GenElemInst_145"</v>
                 <n n="VisualElementOfflinePaintCommands" />
                 <n n="VisualElementFrameInformation" />
                 <d n="VisualElementInputActions" t="Hashtable" />
-                <v n="VisualElementIdentification">{60942ba3-eac3-42c3-adaa-a560d4e95cab}</v>
+                <v n="VisualElementIdentification">{cb155367-3d65-495d-a722-c4f6bdf52912}</v>
                 <v n="VisualElementOwningObjectGuid">{678793d2-a7f8-4441-99aa-b428acc9480e}</v>
                 <a n="LMGuids" et="Guid" />
                 <d n="SubElements" t="Hashtable" />
-                <v n="VisualElementId">138</v>
+                <v n="VisualElementId">145</v>
                 <l n="UserManagementAccessRights" t="ArrayList" />
               </o>
               <o>
@@ -5921,14 +5905,6 @@
                 <n n="VisualElementDescription" />
                 <o n="VisualElemMemberList" t="VisualElemMemberList">
                   <l n="VisualElemMemberList" t="VisualElemMemberCollection" cet="VisualElemMember">
-                    <o>
-                      <v n="Id">1931512087L</v>
-                      <v n="Value">"TOGGLE"</v>
-                    </o>
-                    <o>
-                      <v n="Id">300685745L</v>
-                      <v n="Value">false</v>
-                    </o>
                     <o>
                       <v n="Id">2812299069L</v>
                       <v n="Value">4294967295U</v>
@@ -5959,7 +5935,7 @@
                     </o>
                     <o>
                       <v n="Id">4062784938L</v>
-                      <v n="Value">"Element-Switch-PushSwitchLed-Gray"</v>
+                      <v n="Value">"Element-Lamp-Lamp1-Yellow"</v>
                     </o>
                     <o>
                       <v n="Id">493260384L</v>
@@ -6003,18 +5979,18 @@
                     </o>
                   </l>
                 </o>
-                <v n="VisualElementName">"PushSwitchLed"</v>
-                <v n="VisualElementTypeName">"VisuFbElemPushSwitchLed"</v>
+                <v n="VisualElementName">"Lamp1"</v>
+                <v n="VisualElementTypeName">"VisuFbElemLamp"</v>
                 <v n="VisualElementIsRectangle">true</v>
-                <v n="VisualElementIdentifier">"GenElemInst_140"</v>
+                <v n="VisualElementIdentifier">"GenElemInst_147"</v>
                 <n n="VisualElementOfflinePaintCommands" />
                 <n n="VisualElementFrameInformation" />
                 <d n="VisualElementInputActions" t="Hashtable" />
-                <v n="VisualElementIdentification">{9c4ffa68-adac-402e-8212-2e3601140716}</v>
+                <v n="VisualElementIdentification">{33b99990-527c-4066-b531-60d93ff0fb34}</v>
                 <v n="VisualElementOwningObjectGuid">{678793d2-a7f8-4441-99aa-b428acc9480e}</v>
                 <a n="LMGuids" et="Guid" />
                 <d n="SubElements" t="Hashtable" />
-                <v n="VisualElementId">140</v>
+                <v n="VisualElementId">147</v>
                 <l n="UserManagementAccessRights" t="ArrayList" />
               </o>
               <o>
@@ -6023,14 +5999,6 @@
                 <n n="VisualElementDescription" />
                 <o n="VisualElemMemberList" t="VisualElemMemberList">
                   <l n="VisualElemMemberList" t="VisualElemMemberCollection" cet="VisualElemMember">
-                    <o>
-                      <v n="Id">1931512087L</v>
-                      <v n="Value">"TOGGLE"</v>
-                    </o>
-                    <o>
-                      <v n="Id">300685745L</v>
-                      <v n="Value">false</v>
-                    </o>
                     <o>
                       <v n="Id">2812299069L</v>
                       <v n="Value">4294967295U</v>
@@ -6061,7 +6029,7 @@
                     </o>
                     <o>
                       <v n="Id">4062784938L</v>
-                      <v n="Value">"Element-Switch-PushSwitchLed-Gray"</v>
+                      <v n="Value">"Element-Lamp-Lamp1-Yellow"</v>
                     </o>
                     <o>
                       <v n="Id">493260384L</v>
@@ -6105,18 +6073,18 @@
                     </o>
                   </l>
                 </o>
-                <v n="VisualElementName">"PushSwitchLed"</v>
-                <v n="VisualElementTypeName">"VisuFbElemPushSwitchLed"</v>
+                <v n="VisualElementName">"Lamp1"</v>
+                <v n="VisualElementTypeName">"VisuFbElemLamp"</v>
                 <v n="VisualElementIsRectangle">true</v>
-                <v n="VisualElementIdentifier">"GenElemInst_142"</v>
+                <v n="VisualElementIdentifier">"GenElemInst_149"</v>
                 <n n="VisualElementOfflinePaintCommands" />
                 <n n="VisualElementFrameInformation" />
                 <d n="VisualElementInputActions" t="Hashtable" />
-                <v n="VisualElementIdentification">{2894569f-cd8f-4904-9b24-a75aea56b0fe}</v>
+                <v n="VisualElementIdentification">{0bb9d96f-c09e-4d5d-a31c-d70828872f75}</v>
                 <v n="VisualElementOwningObjectGuid">{678793d2-a7f8-4441-99aa-b428acc9480e}</v>
                 <a n="LMGuids" et="Guid" />
                 <d n="SubElements" t="Hashtable" />
-                <v n="VisualElementId">142</v>
+                <v n="VisualElementId">149</v>
                 <l n="UserManagementAccessRights" t="ArrayList" />
               </o>
             </l>
@@ -6268,7 +6236,7 @@
             </o>
             <v n="DialogDut">{eef11643-72cc-49a4-9a9f-27162bb6f8ed}</v>
           </o>
-          <v n="LastUsedIdForIdentifier">142</v>
+          <v n="LastUsedIdForIdentifier">149</v>
           <o n="TextDocument" t="TextDocument">
             <a n="TextLines" cet="TextLine">
               <o>
@@ -6343,8 +6311,8 @@
         <Type n="Guid">System.Guid</Type>
         <Type n="Hashtable">System.Collections.Hashtable</Type>
         <Type n="HotkeyConfiguration">{6b108d46-58af-4e41-a3f4-174d8f160cc4}</Type>
-        <Type n="IInputAction[]">_3S.CoDeSys.VisualElem.IInputAction[], VisualElem, Version=3.5.13.0, Culture=neutral, PublicKeyToken=null</Type>
         <Type n="InputBoxInputAction">{e8e7e747-f76f-4dee-ab1c-b9637e41ac26}</Type>
+        <Type n="InputBoxInputAction[]">_3S.CoDeSys.VisualElem.InputBoxInputAction[], VisualElem.plugin, Version=3.5.13.32, Culture=neutral, PublicKeyToken=null</Type>
         <Type n="Int16">System.Int16</Type>
         <Type n="Int32">System.Int32</Type>
         <Type n="Int64">System.Int64</Type>
